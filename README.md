@@ -61,7 +61,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/)
 1. ⏳ Maximum Subarray Sum II
 
 ## Dynamic Programming
-1. ⏳ Dice Combinations
+1. ✅ [Dice Combinations](dynamic-programming/dice-combinations.cpp)
 1. ⏳ Minimizing Coins
 1. ⏳ Coin Combinations I
 1. ⏳ Coin Combinations II
