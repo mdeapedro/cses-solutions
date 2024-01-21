@@ -3,7 +3,7 @@
 Solutions for [CSES Problem Set](https://cses.fi/problemset/)
 
 ## Introductory Problems
-1. Weird Algorithm
+1. [Weird Algorithm](introductory-problems/weird-algorithm.cpp)
 1. Missing Number
 1. Repetitions
 1. Increasing Array
