@@ -82,7 +82,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/)
 1. ⏳ Counting Numbers
 
 ## Graph Algorithms
-1. ⏳ Counting Rooms
+1. ✅ [Counting Rooms](graph-algorithms/counting-rooms.cpp)
 1. ⏳ Labyrinth
 1. ⏳ Building Roads
 1. ⏳ Message Route
