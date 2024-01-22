@@ -120,7 +120,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/)
 1. ⏳ Distinct Routes
 
 ## Range Queries
-1. ⏳ Static Range Sum Queries
+1. ✅ [Static Range Sum Queries](range-queries/static-range-sum-queries.cpp)
 1. ⏳ Static Range Minimum Queries
 1. ⏳ Dynamic Range Sum Queries
 1. ⏳ Dynamic Range Minimum Queries
