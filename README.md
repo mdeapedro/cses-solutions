@@ -141,7 +141,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/)
 1. ⏳ Range Queries and Copies
 
 ## Tree Algorithms
-1. ⏳ Subordinates
+1. ✅ [Subordinates](tree-algorithms/subordinates.cpp)
 1. ⏳ Tree Matching
 1. ⏳ Tree Diameter
 1. ⏳ Tree Distances I
