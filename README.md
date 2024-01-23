@@ -2,324 +2,338 @@
 
 Solutions for [CSES Problem Set](https://cses.fi/problemset/)
 
+---
+
+- [Introductory Problems](#introductory-problems)
+- [Sorting and Searching](#sorting-and-searching)
+- [Dynamic Programming](#dynamic-programming)
+- [Graph Algorithms](#graph-algorithms)
+- [Range Queries](#range-queries)
+- [Tree Algorithms](#tree-algorithms)
+- [Mathematics](#mathematics)
+- [String Algorithms](#string-algorithms)
+- [Geometry](#geometry)
+- [Advanced Techniques](#advanced-techniques)
+- [Additional Problems](#additional-problems)
+
 ## Introductory Problems
-1. ✅ [Weird Algorithm](introductory-problems/weird-algorithm.cpp)
-1. ⏳ Missing Number
-1. ⏳ Repetitions
-1. ⏳ Increasing Array
-1. ⏳ Permutations
-1. ⏳ Number Spiral
-1. ⏳ Two Knights
-1. ⏳ Two Sets
-1. ⏳ Bit Strings
-1. ⏳ Trailing Zeros
-1. ⏳ Coin Piles
-1. ⏳ Palindrome Reorder
-1. ⏳ Gray Code
-1. ⏳ Tower of Hanoi
-1. ⏳ Creating Strings
-1. ⏳ Apple Division
-1. ⏳ Chessboard and Queens
-1. ⏳ Digit Queries
-1. ⏳ Grid Paths
+- ✅ [Weird Algorithm](introductory-problems/weird-algorithm.cpp)
+- ⏳ Missing Number
+- ⏳ Repetitions
+- ⏳ Increasing Array
+- ⏳ Permutations
+- ⏳ Number Spiral
+- ⏳ Two Knights
+- ⏳ Two Sets
+- ⏳ Bit Strings
+- ⏳ Trailing Zeros
+- ⏳ Coin Piles
+- ⏳ Palindrome Reorder
+- ⏳ Gray Code
+- ⏳ Tower of Hanoi
+- ⏳ Creating Strings
+- ⏳ Apple Division
+- ⏳ Chessboard and Queens
+- ⏳ Digit Queries
+- ⏳ Grid Paths
 
 ## Sorting and Searching
-1. ✅ [Distinct Numbers](sorting-and-searching/distinct-numbers.cpp)
-1. ⏳ Apartments
-1. ⏳ Ferris Wheel
-1. ⏳ Concert Tickets
-1. ⏳ Restaurant Customers
-1. ⏳ Movie Festival
-1. ⏳ Sum of Two Values
-1. ⏳ Maximum Subarray Sum
-1. ⏳ Stick Lengths
-1. ⏳ Missing Coin Sum
-1. ⏳ Collecting Numbers
-1. ⏳ Collecting Numbers II
-1. ⏳ Playlist
-1. ⏳ Towers
-1. ⏳ Traffic Lights
-1. ⏳ Josephus Problem I
-1. ⏳ Josephus Problem II
-1. ⏳ Nested Ranges Check
-1. ⏳ Nested Ranges Count
-1. ⏳ Room Allocation
-1. ⏳ Factory Machines
-1. ⏳ Tasks and Deadlines
-1. ⏳ Reading Books
-1. ⏳ Sum of Three Values
-1. ⏳ Sum of Four Values
-1. ⏳ Nearest Smaller Values
-1. ⏳ Subarray Sums I
-1. ⏳ Subarray Sums II
-1. ⏳ Subarray Divisibility
-1. ⏳ Subarray Distinct Values
-1. ⏳ Array Division
-1. ⏳ Sliding Window Median
-1. ⏳ Sliding Window Cost
-1. ⏳ Movie Festival II
-1. ⏳ Maximum Subarray Sum II
+- ✅ [Distinct Numbers](sorting-and-searching/distinct-numbers.cpp)
+- ⏳ Apartments
+- ⏳ Ferris Wheel
+- ⏳ Concert Tickets
+- ⏳ Restaurant Customers
+- ⏳ Movie Festival
+- ⏳ Sum of Two Values
+- ⏳ Maximum Subarray Sum
+- ⏳ Stick Lengths
+- ⏳ Missing Coin Sum
+- ⏳ Collecting Numbers
+- ⏳ Collecting Numbers II
+- ⏳ Playlist
+- ⏳ Towers
+- ⏳ Traffic Lights
+- ⏳ Josephus Problem I
+- ⏳ Josephus Problem II
+- ⏳ Nested Ranges Check
+- ⏳ Nested Ranges Count
+- ⏳ Room Allocation
+- ⏳ Factory Machines
+- ⏳ Tasks and Deadlines
+- ⏳ Reading Books
+- ⏳ Sum of Three Values
+- ⏳ Sum of Four Values
+- ⏳ Nearest Smaller Values
+- ⏳ Subarray Sums I
+- ⏳ Subarray Sums II
+- ⏳ Subarray Divisibility
+- ⏳ Subarray Distinct Values
+- ⏳ Array Division
+- ⏳ Sliding Window Median
+- ⏳ Sliding Window Cost
+- ⏳ Movie Festival II
+- ⏳ Maximum Subarray Sum II
 
 ## Dynamic Programming
-1. ✅ [Dice Combinations](dynamic-programming/dice-combinations.cpp)
-1. ⏳ Minimizing Coins
-1. ⏳ Coin Combinations I
-1. ⏳ Coin Combinations II
-1. ⏳ Removing Digits
-1. ⏳ Grid Paths
-1. ⏳ Book Shop
-1. ⏳ Array Description
-1. ⏳ Counting Towers
-1. ⏳ Edit Distance
-1. ⏳ Rectangle Cutting
-1. ⏳ Money Sums
-1. ⏳ Removal Game
-1. ⏳ Two Sets II
-1. ⏳ Increasing Subsequence
-1. ⏳ Projects
-1. ⏳ Elevator Rides
-1. ⏳ Counting Tilings
-1. ⏳ Counting Numbers
+- ✅ [Dice Combinations](dynamic-programming/dice-combinations.cpp)
+- ⏳ Minimizing Coins
+- ⏳ Coin Combinations I
+- ⏳ Coin Combinations II
+- ⏳ Removing Digits
+- ⏳ Grid Paths
+- ⏳ Book Shop
+- ⏳ Array Description
+- ⏳ Counting Towers
+- ⏳ Edit Distance
+- ⏳ Rectangle Cutting
+- ⏳ Money Sums
+- ⏳ Removal Game
+- ⏳ Two Sets II
+- ⏳ Increasing Subsequence
+- ⏳ Projects
+- ⏳ Elevator Rides
+- ⏳ Counting Tilings
+- ⏳ Counting Numbers
 
 ## Graph Algorithms
-1. ✅ [Counting Rooms](graph-algorithms/counting-rooms.cpp)
-1. ⏳ Labyrinth
-1. ⏳ Building Roads
-1. ⏳ Message Route
-1. ⏳ Building Teams
-1. ⏳ Round Trip
-1. ⏳ Monsters
-1. ⏳ Shortest Routes I
-1. ⏳ Shortest Routes II
-1. ⏳ High Score
-1. ⏳ Flight Discount
-1. ⏳ Cycle Finding
-1. ⏳ Flight Routes
-1. ⏳ Round Trip II
-1. ⏳ Course Schedule
-1. ⏳ Longest Flight Route
-1. ⏳ Game Routes
-1. ⏳ Investigation
-1. ⏳ Planets Queries I
-1. ⏳ Planets Queries II
-1. ⏳ Planets Cycles
-1. ⏳ Road Reparation
-1. ⏳ Road Construction
-1. ⏳ Flight Routes Check
-1. ⏳ Planets and Kingdoms
-1. ⏳ Giant Pizza
-1. ⏳ Coin Collector
-1. ⏳ Mail Delivery
-1. ⏳ De Bruijn Sequence
-1. ⏳ Teleporters Path
-1. ⏳ Hamiltonian Flights
-1. ⏳ Knight's Tour
-1. ⏳ Download Speed
-1. ⏳ Police Chase
-1. ⏳ School Dance
-1. ⏳ Distinct Routes
+- ✅ [Counting Rooms](graph-algorithms/counting-rooms.cpp)
+- ⏳ Labyrinth
+- ⏳ Building Roads
+- ⏳ Message Route
+- ⏳ Building Teams
+- ⏳ Round Trip
+- ⏳ Monsters
+- ⏳ Shortest Routes I
+- ⏳ Shortest Routes II
+- ⏳ High Score
+- ⏳ Flight Discount
+- ⏳ Cycle Finding
+- ⏳ Flight Routes
+- ⏳ Round Trip II
+- ⏳ Course Schedule
+- ⏳ Longest Flight Route
+- ⏳ Game Routes
+- ⏳ Investigation
+- ⏳ Planets Queries I
+- ⏳ Planets Queries II
+- ⏳ Planets Cycles
+- ⏳ Road Reparation
+- ⏳ Road Construction
+- ⏳ Flight Routes Check
+- ⏳ Planets and Kingdoms
+- ⏳ Giant Pizza
+- ⏳ Coin Collector
+- ⏳ Mail Delivery
+- ⏳ De Bruijn Sequence
+- ⏳ Teleporters Path
+- ⏳ Hamiltonian Flights
+- ⏳ Knight's Tour
+- ⏳ Download Speed
+- ⏳ Police Chase
+- ⏳ School Dance
+- ⏳ Distinct Routes
 
 ## Range Queries
-1. ✅ [Static Range Sum Queries](range-queries/static-range-sum-queries.cpp)
-1. ⏳ Static Range Minimum Queries
-1. ⏳ Dynamic Range Sum Queries
-1. ⏳ Dynamic Range Minimum Queries
-1. ⏳ Range Xor Queries
-1. ⏳ Range Update Queries
-1. ⏳ Forest Queries
-1. ⏳ Hotel Queries
-1. ⏳ List Removals
-1. ⏳ Salary Queries
-1. ⏳ Prefix Sum Queries
-1. ⏳ Pizzeria Queries
-1. ⏳ Subarray Sum Queries
-1. ⏳ Distinct Values Queries
-1. ⏳ Increasing Array Queries
-1. ⏳ Forest Queries II
-1. ⏳ Range Updates and Sums
-1. ⏳ Polynomial Queries
-1. ⏳ Range Queries and Copies
+- ✅ [Static Range Sum Queries](range-queries/static-range-sum-queries.cpp)
+- ⏳ Static Range Minimum Queries
+- ⏳ Dynamic Range Sum Queries
+- ⏳ Dynamic Range Minimum Queries
+- ⏳ Range Xor Queries
+- ⏳ Range Update Queries
+- ⏳ Forest Queries
+- ⏳ Hotel Queries
+- ⏳ List Removals
+- ⏳ Salary Queries
+- ⏳ Prefix Sum Queries
+- ⏳ Pizzeria Queries
+- ⏳ Subarray Sum Queries
+- ⏳ Distinct Values Queries
+- ⏳ Increasing Array Queries
+- ⏳ Forest Queries II
+- ⏳ Range Updates and Sums
+- ⏳ Polynomial Queries
+- ⏳ Range Queries and Copies
 
 ## Tree Algorithms
-1. ✅ [Subordinates](tree-algorithms/subordinates.cpp)
-1. ⏳ Tree Matching
-1. ⏳ Tree Diameter
-1. ⏳ Tree Distances I
-1. ⏳ Tree Distances II
-1. ⏳ Company Queries I
-1. ⏳ Company Queries II
-1. ⏳ Distance Queries
-1. ⏳ Counting Paths
-1. ⏳ Subtree Queries
-1. ⏳ Path Queries
-1. ⏳ Path Queries II
-1. ⏳ Distinct Colors
-1. ⏳ Finding a Centroid
-1. ⏳ Fixed-Length Paths I
-1. ⏳ Fixed-Length Paths II
+- ✅ [Subordinates](tree-algorithms/subordinates.cpp)
+- ⏳ Tree Matching
+- ⏳ Tree Diameter
+- ⏳ Tree Distances I
+- ⏳ Tree Distances II
+- ⏳ Company Queries I
+- ⏳ Company Queries II
+- ⏳ Distance Queries
+- ⏳ Counting Paths
+- ⏳ Subtree Queries
+- ⏳ Path Queries
+- ⏳ Path Queries II
+- ⏳ Distinct Colors
+- ⏳ Finding a Centroid
+- ⏳ Fixed-Length Paths I
+- ⏳ Fixed-Length Paths II
 
 ## Mathematics
-1. ⏳ Josephus Queries
-1. ✅  [Exponentiation](mathematics/exponentiation.cpp)
-1. ⏳ Exponentiation II
-1. ⏳ Counting Divisors
-1. ⏳ Common Divisors
-1. ⏳ Sum of Divisors
-1. ⏳ Divisor Analysis
-1. ⏳ Prime Multiples
-1. ⏳ Counting Coprime Pairs
-1. ⏳ Binomial Coefficients
-1. ⏳ Creating Strings II
-1. ⏳ Distributing Apples
-1. ⏳ Christmas Party
-1. ⏳ Bracket Sequences I
-1. ⏳ Bracket Sequences II
-1. ⏳ Counting Necklaces
-1. ⏳ Counting Grids
-1. ⏳ Fibonacci Numbers
-1. ⏳ Throwing Dice
-1. ⏳ Graph Paths I
-1. ⏳ Graph Paths II
-1. ⏳ Dice Probability
-1. ⏳ Moving Robots
-1. ⏳ Candy Lottery
-1. ⏳ Inversion Probability
-1. ⏳ Stick Game
-1. ⏳ Nim Game I
-1. ⏳ Nim Game II
-1. ⏳ Stair Game
-1. ⏳ Grundy's Game
-1. ⏳ Another Game
+- ⏳ Josephus Queries
+- ✅  [Exponentiation](mathematics/exponentiation.cpp)
+- ⏳ Exponentiation II
+- ⏳ Counting Divisors
+- ⏳ Common Divisors
+- ⏳ Sum of Divisors
+- ⏳ Divisor Analysis
+- ⏳ Prime Multiples
+- ⏳ Counting Coprime Pairs
+- ⏳ Binomial Coefficients
+- ⏳ Creating Strings II
+- ⏳ Distributing Apples
+- ⏳ Christmas Party
+- ⏳ Bracket Sequences I
+- ⏳ Bracket Sequences II
+- ⏳ Counting Necklaces
+- ⏳ Counting Grids
+- ⏳ Fibonacci Numbers
+- ⏳ Throwing Dice
+- ⏳ Graph Paths I
+- ⏳ Graph Paths II
+- ⏳ Dice Probability
+- ⏳ Moving Robots
+- ⏳ Candy Lottery
+- ⏳ Inversion Probability
+- ⏳ Stick Game
+- ⏳ Nim Game I
+- ⏳ Nim Game II
+- ⏳ Stair Game
+- ⏳ Grundy's Game
+- ⏳ Another Game
 
 ## String Algorithms
-1. ⏳ Word Combinations
-1. ⏳ String Matching
-1. ⏳ Finding Borders
-1. ⏳ Finding Periods
-1. ⏳ Minimal Rotation
-1. ⏳ Longest Palindrome
-1. ⏳ Required Substring
-1. ⏳ Palindrome Queries
-1. ⏳ Finding Patterns
-1. ⏳ Counting Patterns
-1. ⏳ Pattern Positions
-1. ⏳ Distinct Substrings
-1. ⏳ Repeating Substring
-1. ⏳ String Functions
-1. ⏳ Substring Order I
-1. ⏳ Substring Order II
-1. ⏳ Substring Distribution
+- ⏳ Word Combinations
+- ⏳ String Matching
+- ⏳ Finding Borders
+- ⏳ Finding Periods
+- ⏳ Minimal Rotation
+- ⏳ Longest Palindrome
+- ⏳ Required Substring
+- ⏳ Palindrome Queries
+- ⏳ Finding Patterns
+- ⏳ Counting Patterns
+- ⏳ Pattern Positions
+- ⏳ Distinct Substrings
+- ⏳ Repeating Substring
+- ⏳ String Functions
+- ⏳ Substring Order I
+- ⏳ Substring Order II
+- ⏳ Substring Distribution
 
 ## Geometry
-1. ⏳ Point Location Test
-1. ⏳ Line Segment Intersection
-1. ⏳ Polygon Area
-1. ⏳ Point in Polygon
-1. ⏳ Polygon Lattice Points
-1. ⏳ Minimum Euclidean Distance
-1. ⏳ Convex Hull
+- ⏳ Point Location Test
+- ⏳ Line Segment Intersection
+- ⏳ Polygon Area
+- ⏳ Point in Polygon
+- ⏳ Polygon Lattice Points
+- ⏳ Minimum Euclidean Distance
+- ⏳ Convex Hull
 
 ## Advanced Techniques
-1. ⏳ Meet in the Middle
-1. ⏳ Hamming Distance
-1. ⏳ Beautiful Subgrids
-1. ⏳ Reachable Nodes
-1. ⏳ Reachability Queries
-1. ⏳ Cut and Paste
-1. ⏳ Substring Reversals
-1. ⏳ Reversals and Sums
-1. ⏳ Necessary Roads
-1. ⏳ Necessary Cities
-1. ⏳ Eulerian Subgraphs
-1. ⏳ Monster Game I
-1. ⏳ Monster Game II
-1. ⏳ Subarray Squares
-1. ⏳ Houses and Schools
-1. ⏳ Knuth Division
-1. ⏳ Apples and Bananas
-1. ⏳ One Bit Positions
-1. ⏳ Signal Processing
-1. ⏳ New Roads Queries
-1. ⏳ Dynamic Connectivity
-1. ⏳ Parcel Delivery
-1. ⏳ Task Assignment
-1. ⏳ Distinct Routes II
+- ⏳ Meet in the Middle
+- ⏳ Hamming Distance
+- ⏳ Beautiful Subgrids
+- ⏳ Reachable Nodes
+- ⏳ Reachability Queries
+- ⏳ Cut and Paste
+- ⏳ Substring Reversals
+- ⏳ Reversals and Sums
+- ⏳ Necessary Roads
+- ⏳ Necessary Cities
+- ⏳ Eulerian Subgraphs
+- ⏳ Monster Game I
+- ⏳ Monster Game II
+- ⏳ Subarray Squares
+- ⏳ Houses and Schools
+- ⏳ Knuth Division
+- ⏳ Apples and Bananas
+- ⏳ One Bit Positions
+- ⏳ Signal Processing
+- ⏳ New Roads Queries
+- ⏳ Dynamic Connectivity
+- ⏳ Parcel Delivery
+- ⏳ Task Assignment
+- ⏳ Distinct Routes II
 
 ## Additional Problems
-1. ⏳ Shortest Subsequence
-1. ⏳ Counting Bits
-1. ⏳ Swap Game
-1. ⏳ Prüfer Code
-1. ⏳ Acyclic Graph Edges
-1. ⏳ Strongly Connected Edges
-1. ⏳ Even Outdegree Edges
-1. ⏳ Multiplication Table
-1. ⏳ Advertisement
-1. ⏳ Special Substrings
-1. ⏳ Permutation Inversions
-1. ⏳ Maximum Xor Subarray
-1. ⏳ Movie Festival Queries
-1. ⏳ Chess Tournament
-1. ⏳ Tree Traversals
-1. ⏳ Network Renovation
-1. ⏳ Graph Girth
-1. ⏳ Intersection Points
-1. ⏳ Inverse Inversions
-1. ⏳ Monotone Subsequences
-1. ⏳ String Reorder
-1. ⏳ Stack Weights
-1. ⏳ Pyramid Array
-1. ⏳ Increasing Subsequence II
-1. ⏳ String Removals
-1. ⏳ Bit Inversions
-1. ⏳ Xor Pyramid
-1. ⏳ Writing Numbers
-1. ⏳ String Transform
-1. ⏳ Letter Pair Move Game
-1. ⏳ Maximum Building I
-1. ⏳ Sorting Methods
-1. ⏳ Cyclic Array
-1. ⏳ List of Sums
-1. ⏳ Increasing Array II
-1. ⏳ Food Division
-1. ⏳ Bit Problem
-1. ⏳ Swap Round Sorting
-1. ⏳ Binary Subsequences
-1. ⏳ Tree Isomorphism I
-1. ⏳ Counting Sequences
-1. ⏳ Critical Cities
-1. ⏳ School Excursion
-1. ⏳ Coin Grid
-1. ⏳ Robot Path
-1. ⏳ Programmers and Artists
-1. ⏳ Course Schedule II
-1. ⏳ Removing Digits II
-1. ⏳ Coin Arrangement
-1. ⏳ Counting Bishops
-1. ⏳ Grid Puzzle I
-1. ⏳ Grid Puzzle II
-1. ⏳ Empty String
-1. ⏳ Grid Paths
-1. ⏳ Bit Substrings
-1. ⏳ Reversal Sorting
-1. ⏳ Counting Reorders
-1. ⏳ Book Shop II
-1. ⏳ Network Breakdown
-1. ⏳ Visiting Cities
-1. ⏳ Missing Coin Sum Queries
-1. ⏳ Number Grid
-1. ⏳ Maximum Building II
-1. ⏳ Filling Trominos
-1. ⏳ Stick Divisions
-1. ⏳ Coding Company
-1. ⏳ Flight Route Requests
-1. ⏳ Two Stacks Sorting
-1. ⏳ Tree Isomorphism II
-1. ⏳ Forbidden Cities
-1. ⏳ Area of Rectangles
-1. ⏳ Grid Completion
-1. ⏳ Creating Offices
-1. ⏳ Permutations II
-1. ⏳ Functional Graph Distribution
-1. ⏳ New Flight Routes
-1. ⏳ Grid Path Construction
+- ⏳ Shortest Subsequence
+- ⏳ Counting Bits
+- ⏳ Swap Game
+- ⏳ Prüfer Code
+- ⏳ Acyclic Graph Edges
+- ⏳ Strongly Connected Edges
+- ⏳ Even Outdegree Edges
+- ⏳ Multiplication Table
+- ⏳ Advertisement
+- ⏳ Special Substrings
+- ⏳ Permutation Inversions
+- ⏳ Maximum Xor Subarray
+- ⏳ Movie Festival Queries
+- ⏳ Chess Tournament
+- ⏳ Tree Traversals
+- ⏳ Network Renovation
+- ⏳ Graph Girth
+- ⏳ Intersection Points
+- ⏳ Inverse Inversions
+- ⏳ Monotone Subsequences
+- ⏳ String Reorder
+- ⏳ Stack Weights
+- ⏳ Pyramid Array
+- ⏳ Increasing Subsequence II
+- ⏳ String Removals
+- ⏳ Bit Inversions
+- ⏳ Xor Pyramid
+- ⏳ Writing Numbers
+- ⏳ String Transform
+- ⏳ Letter Pair Move Game
+- ⏳ Maximum Building I
+- ⏳ Sorting Methods
+- ⏳ Cyclic Array
+- ⏳ List of Sums
+- ⏳ Increasing Array II
+- ⏳ Food Division
+- ⏳ Bit Problem
+- ⏳ Swap Round Sorting
+- ⏳ Binary Subsequences
+- ⏳ Tree Isomorphism I
+- ⏳ Counting Sequences
+- ⏳ Critical Cities
+- ⏳ School Excursion
+- ⏳ Coin Grid
+- ⏳ Robot Path
+- ⏳ Programmers and Artists
+- ⏳ Course Schedule II
+- ⏳ Removing Digits II
+- ⏳ Coin Arrangement
+- ⏳ Counting Bishops
+- ⏳ Grid Puzzle I
+- ⏳ Grid Puzzle II
+- ⏳ Empty String
+- ⏳ Grid Paths
+- ⏳ Bit Substrings
+- ⏳ Reversal Sorting
+- ⏳ Counting Reorders
+- ⏳ Book Shop II
+- ⏳ Network Breakdown
+- ⏳ Visiting Cities
+- ⏳ Missing Coin Sum Queries
+- ⏳ Number Grid
+- ⏳ Maximum Building II
+- ⏳ Filling Trominos
+- ⏳ Stick Divisions
+- ⏳ Coding Company
+- ⏳ Flight Route Requests
+- ⏳ Two Stacks Sorting
+- ⏳ Tree Isomorphism II
+- ⏳ Forbidden Cities
+- ⏳ Area of Rectangles
+- ⏳ Grid Completion
+- ⏳ Creating Offices
+- ⏳ Permutations II
+- ⏳ Functional Graph Distribution
+- ⏳ New Flight Routes
+- ⏳ Grid Path Construction
