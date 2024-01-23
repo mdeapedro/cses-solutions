@@ -20,7 +20,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - **[Repetitions](introductory-problems/repetitions.cpp)**
 - **[Increasing Array](introductory-problems/increasing-array.cpp)**
 - **[Permutations](introductory-problems/permutations.cpp)**
-- Number Spiral
+- **[Number Spiral](introductory-problems/number-spiral.cpp)**
 - Two Knights
 - Two Sets
 - Bit Strings
