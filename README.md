@@ -16,7 +16,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 
 ## Introductory Problems
 - **[Weird Algorithm](introductory-problems/weird-algorithm.cpp)**
-- Missing Number
+- **[Missing Number](introductory-problems/missing-number.cpp)**
 - Repetitions
 - Increasing Array
 - Permutations
