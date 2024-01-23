@@ -19,7 +19,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - **[Missing Number](introductory-problems/missing-number.cpp)**
 - **[Repetitions](introductory-problems/repetitions.cpp)**
 - **[Increasing Array](introductory-problems/increasing-array.cpp)**
-- Permutations
+- **[Permutations](introductory-problems/permutations.cpp)**
 - Number Spiral
 - Two Knights
 - Two Sets
