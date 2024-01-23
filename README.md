@@ -18,7 +18,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - **[Weird Algorithm](introductory-problems/weird-algorithm.cpp)**
 - **[Missing Number](introductory-problems/missing-number.cpp)**
 - **[Repetitions](introductory-problems/repetitions.cpp)**
-- Increasing Array
+- **[Increasing Array](introductory-problems/increasing-array.cpp)**
 - Permutations
 - Number Spiral
 - Two Knights
