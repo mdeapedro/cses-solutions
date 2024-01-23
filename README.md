@@ -17,7 +17,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 ## Introductory Problems
 - **[Weird Algorithm](introductory-problems/weird-algorithm.cpp)**
 - **[Missing Number](introductory-problems/missing-number.cpp)**
-- Repetitions
+- **[Repetitions](introductory-problems/repetitions.cpp)**
 - Increasing Array
 - Permutations
 - Number Spiral
