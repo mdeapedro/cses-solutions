@@ -160,7 +160,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/)
 
 ## Mathematics
 1. ⏳ Josephus Queries
-1. ⏳ Exponentiation
+1. ✅  [Exponentiation](mathematics/exponentiation.cpp)
 1. ⏳ Exponentiation II
 1. ⏳ Counting Divisors
 1. ⏳ Common Divisors
