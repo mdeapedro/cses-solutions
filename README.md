@@ -25,7 +25,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Two Sets](introductory-problems/two-sets.cpp)
 - [Bit Strings](introductory-problems/bit-strings.cpp)
 - [Trailing Zeros](introductory-problems/trailing-zeros.cpp)
-- Coin Piles
+- [Coin Piles](introductory-problems/coin-piles.cpp)
 - Palindrome Reorder
 - Gray Code
 - Tower of Hanoi
