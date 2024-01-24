@@ -22,7 +22,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Permutations](introductory-problems/permutations.cpp)
 - [Number Spiral](introductory-problems/number-spiral.cpp)
 - [Two Knights](introductory-problems/two-knights.cpp)
-- Two Sets
+- [Two Sets](introductory-problems/two-sets.cpp)
 - Bit Strings
 - Trailing Zeros
 - Coin Piles
