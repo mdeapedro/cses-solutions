@@ -37,7 +37,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 
 ## Sorting and Searching
 - [Distinct Numbers](sorting-and-searching/distinct-numbers.cpp)
-- Apartments
+- [Apartments](sorting-and-searching/apartments.cpp)
 - Ferris Wheel
 - Concert Tickets
 - Restaurant Customers
