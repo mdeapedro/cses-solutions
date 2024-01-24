@@ -24,7 +24,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Two Knights](introductory-problems/two-knights.cpp)
 - [Two Sets](introductory-problems/two-sets.cpp)
 - [Bit Strings](introductory-problems/bit-strings.cpp)
-- Trailing Zeros
+- [Trailing Zeros](introductory-problems/trailing-zeros.cpp)
 - Coin Piles
 - Palindrome Reorder
 - Gray Code
