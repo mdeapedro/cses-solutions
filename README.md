@@ -28,7 +28,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Coin Piles](introductory-problems/coin-piles.cpp)
 - [Palindrome Reorder](introductory-problems/palindrome-reorder.cpp)
 - [Gray Code](introductory-problems/gray-code.cpp)
-- Tower of Hanoi
+- [Tower of Hanoi](introductory-problems/tower-of-hanoi.cpp)
 - Creating Strings
 - Apple Division
 - Chessboard and Queens
