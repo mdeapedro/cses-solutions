@@ -21,7 +21,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - **[Increasing Array](introductory-problems/increasing-array.cpp)**
 - **[Permutations](introductory-problems/permutations.cpp)**
 - **[Number Spiral](introductory-problems/number-spiral.cpp)**
-- Two Knights
+- **[Two Knights](introductory-problems/two-knights.cpp)**
 - Two Sets
 - Bit Strings
 - Trailing Zeros
