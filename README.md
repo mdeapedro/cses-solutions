@@ -15,13 +15,13 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Additional Problems](#additional-problems)
 
 ## Introductory Problems
-- **[Weird Algorithm](introductory-problems/weird-algorithm.cpp)**
-- **[Missing Number](introductory-problems/missing-number.cpp)**
-- **[Repetitions](introductory-problems/repetitions.cpp)**
-- **[Increasing Array](introductory-problems/increasing-array.cpp)**
-- **[Permutations](introductory-problems/permutations.cpp)**
-- **[Number Spiral](introductory-problems/number-spiral.cpp)**
-- **[Two Knights](introductory-problems/two-knights.cpp)**
+- [Weird Algorithm](introductory-problems/weird-algorithm.cpp)
+- [Missing Number](introductory-problems/missing-number.cpp)
+- [Repetitions](introductory-problems/repetitions.cpp)
+- [Increasing Array](introductory-problems/increasing-array.cpp)
+- [Permutations](introductory-problems/permutations.cpp)
+- [Number Spiral](introductory-problems/number-spiral.cpp)
+- [Two Knights](introductory-problems/two-knights.cpp)
 - Two Sets
 - Bit Strings
 - Trailing Zeros
@@ -36,7 +36,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - Grid Paths
 
 ## Sorting and Searching
-- **[Distinct Numbers](sorting-and-searching/distinct-numbers.cpp)**
+- [Distinct Numbers](sorting-and-searching/distinct-numbers.cpp)
 - Apartments
 - Ferris Wheel
 - Concert Tickets
@@ -73,7 +73,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - Maximum Subarray Sum II
 
 ## Dynamic Programming
-- **[Dice Combinations](dynamic-programming/dice-combinations.cpp)**
+- [Dice Combinations](dynamic-programming/dice-combinations.cpp)
 - Minimizing Coins
 - Coin Combinations I
 - Coin Combinations II
@@ -94,7 +94,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - Counting Numbers
 
 ## Graph Algorithms
-- **[Counting Rooms](graph-algorithms/counting-rooms.cpp)**
+- [Counting Rooms](graph-algorithms/counting-rooms.cpp)
 - Labyrinth
 - Building Roads
 - Message Route
@@ -132,7 +132,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - Distinct Routes
 
 ## Range Queries
-- **[Static Range Sum Queries](range-queries/static-range-sum-queries.cpp)**
+- [Static Range Sum Queries](range-queries/static-range-sum-queries.cpp)
 - Static Range Minimum Queries
 - Dynamic Range Sum Queries
 - Dynamic Range Minimum Queries
@@ -153,7 +153,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - Range Queries and Copies
 
 ## Tree Algorithms
-- **[Subordinates](tree-algorithms/subordinates.cpp)**
+- [Subordinates](tree-algorithms/subordinates.cpp)
 - Tree Matching
 - Tree Diameter
 - Tree Distances I
@@ -172,7 +172,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 
 ## Mathematics
 - Josephus Queries
-- **[Exponentiation](mathematics/exponentiation.cpp)**
+- [Exponentiation](mathematics/exponentiation.cpp)
 - Exponentiation II
 - Counting Divisors
 - Common Divisors
