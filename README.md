@@ -27,7 +27,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Trailing Zeros](introductory-problems/trailing-zeros.cpp)
 - [Coin Piles](introductory-problems/coin-piles.cpp)
 - [Palindrome Reorder](introductory-problems/palindrome-reorder.cpp)
-- Gray Code
+- [Gray Code](introductory-problems/gray-code.cpp)
 - Tower of Hanoi
 - Creating Strings
 - Apple Division
