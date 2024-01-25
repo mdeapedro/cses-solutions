@@ -30,7 +30,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Gray Code](introductory-problems/gray-code.cpp)
 - [Tower of Hanoi](introductory-problems/tower-of-hanoi.cpp)
 - [Creating Strings](introductory-problems/creating-strings.cpp)
-- Apple Division
+- [Apple Division](introductory-problems/apple-division.cpp)
 - Chessboard and Queens
 - Digit Queries
 - Grid Paths
