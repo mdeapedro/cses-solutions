@@ -31,7 +31,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Tower of Hanoi](introductory-problems/tower-of-hanoi.cpp)
 - [Creating Strings](introductory-problems/creating-strings.cpp)
 - [Apple Division](introductory-problems/apple-division.cpp)
-- Chessboard and Queens
+- [Chessboard and Queens](introductory-problems/chessboard-and-queens.cpp)
 - Digit Queries
 - Grid Paths
 
