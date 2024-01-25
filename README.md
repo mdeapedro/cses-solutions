@@ -29,7 +29,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Palindrome Reorder](introductory-problems/palindrome-reorder.cpp)
 - [Gray Code](introductory-problems/gray-code.cpp)
 - [Tower of Hanoi](introductory-problems/tower-of-hanoi.cpp)
-- Creating Strings
+- [Creating Strings](introductory-problems/creating-strings.cpp)
 - Apple Division
 - Chessboard and Queens
 - Digit Queries
