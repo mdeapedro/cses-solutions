@@ -33,7 +33,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Apple Division](introductory-problems/apple-division.cpp)
 - [Chessboard and Queens](introductory-problems/chessboard-and-queens.cpp)
 - [Digit Queries](introductory-problems/digit-queries.cpp)
-- Grid Paths
+- [Grid Paths](introductory-problems/grid-paths.cpp)
 
 ## Sorting and Searching
 - [Distinct Numbers](sorting-and-searching/distinct-numbers.cpp)
