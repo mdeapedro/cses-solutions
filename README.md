@@ -39,7 +39,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Distinct Numbers](sorting-and-searching/distinct-numbers.cpp)
 - [Apartments](sorting-and-searching/apartments.cpp)
 - [Ferris Wheel](sorting-and-searching/ferris-wheel.cpp)
-- Concert Tickets
+- [Concert Tickets](sorting-and-searching/concert-tickets.cpp)
 - Restaurant Customers
 - Movie Festival
 - Sum of Two Values
