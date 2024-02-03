@@ -40,7 +40,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Apartments](sorting-and-searching/apartments.cpp)
 - [Ferris Wheel](sorting-and-searching/ferris-wheel.cpp)
 - [Concert Tickets](sorting-and-searching/concert-tickets.cpp)
-- Restaurant Customers
+- [Restaurant Customers](sorting-and-searching/restaurant-customers.cpp)
 - Movie Festival
 - Sum of Two Values
 - Maximum Subarray Sum
