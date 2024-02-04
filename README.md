@@ -41,7 +41,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Ferris Wheel](sorting-and-searching/ferris-wheel.cpp)
 - [Concert Tickets](sorting-and-searching/concert-tickets.cpp)
 - [Restaurant Customers](sorting-and-searching/restaurant-customers.cpp)
-- Movie Festival
+- [Movie Festival](sorting-and-searching/movie-festival.cpp)
 - Sum of Two Values
 - Maximum Subarray Sum
 - Stick Lengths
