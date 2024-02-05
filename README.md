@@ -42,7 +42,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Concert Tickets](sorting-and-searching/concert-tickets.cpp)
 - [Restaurant Customers](sorting-and-searching/restaurant-customers.cpp)
 - [Movie Festival](sorting-and-searching/movie-festival.cpp)
-- Sum of Two Values
+- [Sum of Two Values](sorting-and-searching/sum-of-two-values.cpp)
 - Maximum Subarray Sum
 - Stick Lengths
 - Missing Coin Sum
