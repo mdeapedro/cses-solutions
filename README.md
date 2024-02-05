@@ -43,7 +43,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Restaurant Customers](sorting-and-searching/restaurant-customers.cpp)
 - [Movie Festival](sorting-and-searching/movie-festival.cpp)
 - [Sum of Two Values](sorting-and-searching/sum-of-two-values.cpp)
-- Maximum Subarray Sum
+- [Maximum Subarray Sum](sorting-and-searching/maximum-subarray-sum.cpp)
 - Stick Lengths
 - Missing Coin Sum
 - Collecting Numbers
