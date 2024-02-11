@@ -45,7 +45,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Sum of Two Values](sorting-and-searching/sum-of-two-values.cpp)
 - [Maximum Subarray Sum](sorting-and-searching/maximum-subarray-sum.cpp)
 - [Stick Lengths](sorting-and-searching/stick-lengths.cpp)
-- Missing Coin Sum
+- [Missing Coin Sum](sorting-and-searching/missing-coin-sum.cpp)
 - [Collecting Numbers](sorting-and-searching/collecting-numbers.cpp)
 - Collecting Numbers II
 - Playlist
