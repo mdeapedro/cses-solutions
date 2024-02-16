@@ -47,7 +47,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Stick Lengths](sorting-and-searching/stick-lengths.cpp)
 - [Missing Coin Sum](sorting-and-searching/missing-coin-sum.cpp)
 - [Collecting Numbers](sorting-and-searching/collecting-numbers.cpp)
-- Collecting Numbers II
+- [Collecting Numbers II](sorting-and-searching/collecting-numbers-ii.cpp)
 - Playlist
 - Towers
 - Traffic Lights
