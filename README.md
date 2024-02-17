@@ -48,7 +48,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Missing Coin Sum](sorting-and-searching/missing-coin-sum.cpp)
 - [Collecting Numbers](sorting-and-searching/collecting-numbers.cpp)
 - [Collecting Numbers II](sorting-and-searching/collecting-numbers-ii.cpp)
-- Playlist
+- [Playlist](sorting-and-searching/playlist.cpp)
 - Towers
 - Traffic Lights
 - Josephus Problem I
