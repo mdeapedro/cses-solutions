@@ -76,7 +76,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Dice Combinations](dynamic-programming/dice-combinations.cpp)
 - [Minimizing Coins](dynamic-programming/minimizing-coins.cpp)
 - [Coin Combinations I](dynamic-programming/coin-combinations-i.cpp)
-- Coin Combinations II
+- [Coin Combinations II](dynamic-programming/coin-combinations-ii.cpp)
 - Removing Digits
 - Grid Paths
 - Book Shop
