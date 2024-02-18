@@ -78,7 +78,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Coin Combinations I](dynamic-programming/coin-combinations-i.cpp)
 - [Coin Combinations II](dynamic-programming/coin-combinations-ii.cpp)
 - [Removing Digits](dynamic-programming/removing-digits.cpp)
-- Grid Paths
+- [Grid Paths](dynamic-programming/grid-paths.cpp)
 - Book Shop
 - Array Description
 - Counting Towers
