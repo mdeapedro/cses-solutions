@@ -51,7 +51,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Playlist](sorting-and-searching/playlist.cpp)
 - [Towers](sorting-and-searching/towers.cpp)
 - [Traffic Lights](sorting-and-searching/traffic-lights.cpp)
-- Josephus Problem I
+- [Josephus Problem I](sorting-and-searching/josephus-problem-i.cpp)
 - Josephus Problem II
 - Nested Ranges Check
 - Nested Ranges Count
