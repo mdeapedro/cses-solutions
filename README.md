@@ -63,7 +63,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Sum of Four Values](sorting-and-searching/sum-of-four-values.cpp)
 - [Nearest Smaller Values](sorting-and-searching/nearest-smaller-values.cpp)
 - [Subarray Sums I](sorting-and-searching/subarray-sums-i.cpp)
-- Subarray Sums II
+- [Subarray Sums II](sorting-and-searching/subarray-sums-ii.cpp)
 - Subarray Divisibility
 - Subarray Distinct Values
 - Array Division
