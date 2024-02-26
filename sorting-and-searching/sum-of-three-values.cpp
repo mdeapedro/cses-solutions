@@ -8,8 +8,8 @@ void solve() {
     for (int i = 0; i < n; i++) cin >> a[i][0];
     for (int i = 0; i < n; i++) a[i][1] = i;
     sort(a.begin(), a.end());
-    for (int i = 0; i < n; i++) {
-        for (int j = n-1; j >= 0; j--) {
+    for (int i = 0; i < n-2; i++) {
+        for (int j = n-1; j > i; j--) {
             int k = x - a[i][0] - a[j][0];
             if      (k > a[j][0]) break;
             else if (k < a[i][0]) continue;
