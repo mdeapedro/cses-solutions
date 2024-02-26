@@ -57,7 +57,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Nested Ranges Count](sorting-and-searching/nested-ranges-count.cpp)
 - [Room Allocation](sorting-and-searching/room-allocation.cpp)
 - [Factory Machines](sorting-and-searching/factory-machines.cpp)
-- Tasks and Deadlines
+- [Tasks and Deadlines](sorting-and-searching/tasks-and-deadlines.cpp)
 - Reading Books
 - Sum of Three Values
 - Sum of Four Values
