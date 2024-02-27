@@ -64,7 +64,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Nearest Smaller Values](sorting-and-searching/nearest-smaller-values.cpp)
 - [Subarray Sums I](sorting-and-searching/subarray-sums-i.cpp)
 - [Subarray Sums II](sorting-and-searching/subarray-sums-ii.cpp)
-- Subarray Divisibility
+- [Subarray Divisibility](sorting-and-searching/subarray-divisibility.cpp)
 - Subarray Distinct Values
 - Array Division
 - Sliding Window Median
