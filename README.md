@@ -67,7 +67,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Subarray Divisibility](sorting-and-searching/subarray-divisibility.cpp)
 - [Subarray Distinct Values](sorting-and-searching/subarray-distinct-values.cpp)
 - [Array Division](sorting-and-searching/subarray-divisibility.cpp)
-- Sliding Window Median
+- [Sliding Window Median](sorting-and-searching/sliding-window-median.cpp)
 - Sliding Window Cost
 - Movie Festival II
 - Maximum Subarray Sum II
