@@ -84,7 +84,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Counting Towers](dynamic-programming/counting-towers.cpp)
 - [Edit Distance](dynamic-programming/edit-distance.cpp)
 - [Rectangle Cutting](dynamic-programming/rectangle-cutting.cpp)
-- Money Sums
+- [Money Sums](dynamic-programming/money-sums.cpp)
 - Removal Game
 - Two Sets II
 - Increasing Subsequence
