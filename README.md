@@ -82,7 +82,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Book Shop](dynamic-programming/book-shop.cpp)
 - [Array Description](dynamic-programming/array-description.cpp)
 - [Counting Towers](dynamic-programming/counting-towers.cpp)
-- Edit Distance
+- [Edit Distance](dynamic-programming/edit-distance.cpp)
 - Rectangle Cutting
 - Money Sums
 - Removal Game
