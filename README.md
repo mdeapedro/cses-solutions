@@ -86,7 +86,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Rectangle Cutting](dynamic-programming/rectangle-cutting.cpp)
 - [Money Sums](dynamic-programming/money-sums.cpp)
 - [Removal Game](dynamic-programming/removal-game.cpp)
-- Two Sets II
+- [Two Sets II](dynamic-programming/two-sets-ii.cpp)
 - Increasing Subsequence
 - Projects
 - Elevator Rides
