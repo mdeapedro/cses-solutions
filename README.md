@@ -89,7 +89,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Two Sets II](dynamic-programming/two-sets-ii.cpp)
 - [Increasing Subsequence](dynamic-programming/increasing-subsequence.cpp)
 - [Projects](dynamic-programming/projects.cpp)
-- Elevator Rides
+- [Elevator Rides](dynamic-programming/elevator-rides.cpp)
 - Counting Tilings
 - Counting Numbers
 
