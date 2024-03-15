@@ -174,7 +174,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - Josephus Queries
 - [Exponentiation](mathematics/exponentiation.cpp)
 - [Exponentiation II](mathematics/exponentiation-ii.cpp)
-- Counting Divisors
+- [Counting Divisors](mathematics/counting-divisors.cpp)
 - Common Divisors
 - Sum of Divisors
 - Divisor Analysis
