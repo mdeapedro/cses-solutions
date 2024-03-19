@@ -96,7 +96,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 ## Graph Algorithms
 - [Counting Rooms](graph-algorithms/counting-rooms.cpp)
 - [Labyrinth](graph-algorithms/labyrinth.cpp)
-- Building Roads
+- [Building Roads](graph-algorithms/building-roads.cpp)
 - Message Route
 - Building Teams
 - Round Trip
