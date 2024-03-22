@@ -98,7 +98,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 - [Labyrinth](graph-algorithms/labyrinth.cpp)
 - [Building Roads](graph-algorithms/building-roads.cpp)
 - [Message Route](graph-algorithms/message-route.cpp)
-- Building Teams
+- [Building Teams](graph-algorithms/building-teams.cpp)
 - Round Trip
 - Monsters
 - Shortest Routes I
