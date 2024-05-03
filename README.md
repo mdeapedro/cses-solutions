@@ -133,7 +133,7 @@ Solutions for [CSES Problem Set](https://cses.fi/problemset/).
 
 ## Range Queries
 - [Static Range Sum Queries](range-queries/static-range-sum-queries.cpp)
-- Static Range Minimum Queries
+- [Static Range Minimum Queries](range-queries/static-range-minimum-queries.cpp)
 - Dynamic Range Sum Queries
 - Dynamic Range Minimum Queries
 - Range Xor Queries
